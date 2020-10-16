@@ -4,3 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-HarukiYqM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yiqun-mei-969baa147/)](https://www.linkedin.com/in/yiqun-mei-969baa147)
 
 🔭 I love computer vision and image processing❤️
+# I am looking for a research internship in China. Please contact me if interested!
