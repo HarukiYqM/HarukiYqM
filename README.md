@@ -19,7 +19,7 @@ I am actively finding a summer internship for summer 2022. Contact me if interes
 I have developed a series of **self-attention** operations for image restoration:
 
 
-Cross-Scale Non-Local Attention (CVPR2020)
+Cross-Scale Non-Local Attention (CVPR20)
 
 
 Non-local Sparse Attention (CVPR21)
