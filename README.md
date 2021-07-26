@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-meiyiqun2@gmail.com-RED?style=flat-square&labelColor=RED&logo=Gmail&logoColor=white&link=mailto:meiyiqun2@gmail.com)](mailto:meiyiqun2@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-HarukiYqM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yiqun-mei-969baa147/)](https://www.linkedin.com/in/yiqun-mei-969baa147)
 
-I a student focusing on computer vision.
+Student focusing on computer vision.
 
 
 Obtained my bachelor's degree from UIUC
