@@ -19,13 +19,13 @@
 I have developed a series of **self-attention** operations for image restoration:
 
 
-1. Cross-Scale Non-Local Attention (CVPR20) [Paper]( )
+Cross-Scale Non-Local Attention (CVPR20) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mei_Image_Super-Resolution_With_Cross-Scale_Non-Local_Attention_and_Exhaustive_Self-Exemplars_Mining_CVPR_2020_paper.pdf) [[Code]](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)
+ 
+
+Non-local Sparse Attention (CVPR21) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Mei_Image_Super-Resolution_With_Non-Local_Sparse_Attention_CVPR_2021_paper.pdf) [[Code]](https://github.com/HarukiYqM/Non-Local-Sparse-Attention)
 
 
-2. Non-local Sparse Attention (CVPR21) [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Mei_Image_Super-Resolution_With_Non-Local_Sparse_Attention_CVPR_2021_paper.pdf) [Code]
-
-
-3. Pyramid Attention Networks (arXiv)
+Pyramid Attention Networks (arXiv) [[Paper]](https://arxiv.org/abs/2004.13824) [[Code]](https://github.com/SHI-Labs/Pyramid-Attention-Networks)
 
 
 Please feel free to check them.
