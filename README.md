@@ -6,7 +6,7 @@
 :musical_note: Focusing on computer vision.
 
 
-:speech_balloon: Obtained my bachelor's degree from UIUC
+:speech_balloon: Now PhD student at JHU. Obtained my bachelor's degree from UIUC
 
 
 :love_letter: Alumni of [UIUC-IFP](http://ifp-uiuc.github.io/) and [SHI Lab](https://www.humphreyshi.com/people)
