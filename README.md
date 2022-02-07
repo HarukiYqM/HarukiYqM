@@ -12,7 +12,7 @@
 :love_letter: Alumni of [UIUC-IFP](http://ifp-uiuc.github.io/) and [SHI Lab](https://www.humphreyshi.com/people)
 
 
- :vibration_mode:--
+ :vibration_mode:
 
 ### Research 
 
