@@ -11,9 +11,6 @@
 
 :love_letter: Alumni of [UIUC-IFP](http://ifp-uiuc.github.io/) and [SHI Lab](https://www.humphreyshi.com/people)
 
-
- :vibration_mode:
-
 ### Research 
 
 I have developed a series of **self-attention** operations for image restoration:
